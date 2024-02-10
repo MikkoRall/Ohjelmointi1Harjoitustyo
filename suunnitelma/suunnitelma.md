@@ -1,51 +1,47 @@
 # Harjoitustyön suunnitelma
 
-(Täydennä oman pelisi tiedot tähän tiedostoon muokkaamalla 
-tiedostoa tekstieditorissa. Käytä [Markdown-syntaksia](https://about.gitlab.com/handbook/markdown-guide/).
-Poista sitten *kaikki* suluilla merkityt kohdat.)
-
 ## Tietoja 
 
-Tekijä: (Etunimi Sukunimi)
+Tekijä: Mikko Ralli
 
-Työ git-varaston osoite: <https://gitlab.jyu.fi/anlakane/ohj1ht> (*Korvaa* tämä osoite oman git-varastosi osoitteella)
+Työ git-varaston osoite: <https://github.com/MikkoRall/Ohjelmointi1Harjoitustyo.git>
 
-Pelin nimi: (Nimi)
+Pelin nimi: Matopeli2024
 
-Pelialusta: Windows/macOS/Linux (Valitse alusta)
+Pelialusta: Windows
 
-Pelaajien lukumäärä: 1/2/3/4 (Valitse pelaajien lukumäärä)
+Pelaajien lukumäärä: 1
 
 ## Pelin tarina
 
-(Pelin tarina.)
+Pelin mato on jatkuvasti nälkäinen ja mato janoaa jatkuvasti uusia makupaloja. Mato haluaa syödä niin paljon makupaloja kuin mahdollista ja kasvaa mahdollisimman suureksi eli pitkäksi.
 
 ## Pelin idea ja tavoitteet
 
-(Pelin idea ja tavoitteet.)
+Pelin ideana on saada mato syömään mahdollisimman paljon makupaloja ja kasvattaa mato mahdollisimman pitkäksi. Jokaisesta makupalasta saa yhden pisteen. Peli loppuu, jos mato törmää reunaan tai itseensä.
 
 ## Hahmotelma pelistä
 
 (Kun olet lisännyt suunnitelmakuvan tähän hakemistoon, linkitä se tähän alle. Alla on esimerkkikuvan linkitys.)
 
-![Esimerkkikuva](esimerkkikuva.png "Esimerkkikuva")
+![Matopeli](Matopeli.png "Matopeli")
 
 ## Toteutuksen suunnitelma
 
 Helmikuu
 
-- (Tavoite 1)
-- (Tavoite 2)
-- (Tavoite 3)
+- Luon madon valmiiksi
+- Luon syötävän valmiiksi
+- Teen pelialueen ja luon pistelaskun
 
 Maaliskuu
 
-- (Tavoite 1)
-- (Tavoite 2)
-- (Tavoite 3)
+- Suunnittelen madon nopeuden
+- Suunnittelen ja toteutan pelin lopun
+- Testaan, että peli toimii
 
 Jos aikaa jää
 
-- (Tavoite 1)
-- (Tavoite 2)
-- (Tavoite 3)
+- Teen toisen kentän ja esimerkiksi esteitä kentälle
+- Teen madosta nopeutuvan pelin edetessä
+- Onnistuuko pelistä tehdä kaksinpeliä
